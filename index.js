@@ -1,2 +1,2 @@
 // write your code below!
-Function happyHolidays ("Happy Holidays";
+Function happyHolidays ("Happy Holidays!")
