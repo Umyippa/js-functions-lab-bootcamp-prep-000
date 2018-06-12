@@ -1,2 +1,2 @@
 // write your code below!
-Function 
+def Function: "Happy Holidays";
